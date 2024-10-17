@@ -1,0 +1,42 @@
+{
+"name": "Series-indy",
+"image": "https://sv1.picz.in.th/images/2023/05/10/yL3U7Q.gif",
+ "author": "Copyright by ผู้เฒ่าพเนจร",
+ "info": "Copyright by ผู้เฒ่าพเนจร",
+"url": "https://drive.google.com/uc?id=10Wu_OgA7hZfOKoDVZ9pFrFKezUtqLAyz",
+"groups": [
+	
+  
+		{"name":" ซี่รี่ย์เกาหลี ","image": "https://sv1.picz.in.th/images/2023/05/10/yLh2ED.gif",
+	"url": "https://drive.google.com/uc?id=10ELtfceZtPa6FfMIheel9tWtLBO3Y7Qw","import": false},  
+
+		{"name":" ซี่รี่ย์จีน ","image": "https://sv1.picz.in.th/images/2023/05/10/yLkWAl.gif",
+	"url": "https://drive.google.com/uc?id=10AIo3TIgKn1srZrZ-Fu8IhdKLmJgzpk8","import": false},  
+	
+		{"name":" ซี่รี่ย์ฝรั่ง ","image": "https://sv1.picz.in.th/images/2023/05/10/yLk9e2.gif",
+	"url": "https://drive.google.com/uc?id=10KV3PoWmCNh2VWw92bNRadK4xGpwm2Ud","import": false},  
+			
+		{"name":" ซีรีย์พากย์ไทย ","image": "https://sv1.picz.in.th/images/2023/05/10/yL30cf.gif",
+	"url": "https://drive.google.com/uc?id=11nShaZODF5J0l6eHLxM9Qbwf7xAFNhQ8","import": false},  
+		
+		{"name":" ซีรีย์ซับไทย ","image": "https://sv1.picz.in.th/images/2023/05/10/yL3zTz.gif",
+	"url": "https://drive.google.com/uc?id=104EW7rLDYJvqk5HDZorkCGr5NnyMJqHl","import": false},  
+	
+]
+}
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
